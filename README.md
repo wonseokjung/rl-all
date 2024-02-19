@@ -1,5 +1,16 @@
 # rl-all
+
 서울사이버대학교 공과대학 인공지능 전공의 '강화학습과 현대 인공지능' 과목 실습을 위한 저장소입니다. 이곳에서는 강화학습의 기본부터 현대 인공지능 기술에 이르기까지 다양한 실습을 진행할 수 있습니다.
+
+## Jupyter Notebook 설치 및 사용 방법
+
+Jupyter Notebook은 Python 코드를 작성하고 실행하는 데 유용한 도구입니다. 아래 단계를 따라 설치하고 사용할 수 있습니다:
+
+1. Python이 설치되어 있지 않다면, [Python 공식 웹사이트](https://www.python.org/downloads/)에서 설치하세요.
+2. 터미널(또는 명령 프롬프트)을 열고 다음 명령어로 Jupyter Notebook을 설치합니다: `pip install notebook`
+3. 설치가 완료되면, 터미널에서 `jupyter notebook` 명령어를 입력하여 Jupyter Notebook을 시작하세요.
+
+
 
 ## 강의 목록
 
