@@ -48,6 +48,8 @@ Jupyter Notebook은 Python 코드를 작성하고 실행하는 데 유용한 도
 
 ### 9. 몬테카를로 트리 검색(Monte Carlo Tree Search), 알파고 사례
 - 몬테카를로 트리 검색 기법과 이를 활용한 알파고의 사례 분석을 통해 고급 강화학습 기술에 대해 배웁니다.
+  실습 링크 
+  https://colab.research.google.com/drive/1rpyUgiKR_ZkKa1MUi_eoNImCC9g_qoif?usp=sharing
 
 ### 10. 최신 강화학습 적용 트랜드(예: ChatGPT)
 - 최근 강화학습 분야에서의 트렌드와 혁신적인 사례들, 논문 분석을 통한 RLHF: Reinforcement Learning from Human Feedback과 Proximal Policy Optimization(PPO)에 대해 학습합니다.
